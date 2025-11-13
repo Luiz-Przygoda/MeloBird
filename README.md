@@ -1,6 +1,6 @@
 # MELOBIRD
 Um algoritmo para identificação de aves fundamentado em Python
-![Logo do projeto](https://github.com/Luiz-Przygoda/MeloBird/blob/main/Media/Melobird%20-%20Logo%202.png)
+![Logo do projeto](https://github.com/Luiz-Przygoda/MeloBird/blob/main/Media/Melobird%20-%20logo%202.jpg)
 
 ## Introdução
 A classificação automática de cantos de pássaros é um desafio relevante porque essas espécies reagem rapidamente às mudanças climáticas, tornando seu monitoramento essencial. No entanto, identificar manualmente cada canto é um processo lento, caro e sujeito a erros humanos. Este trabalho busca automatizar essa tarefa criando um sistema capaz de reconhecer espécies por meio de seus sons. Para isso, replicamos metodologias do artigo original, explorando diferentes arquiteturas de deep learning e técnicas de extração de características. O objetivo final é oferecer uma solução eficiente, escalável e precisa para auxiliar pesquisas ambientais e monitoramento da biodiversidade.
