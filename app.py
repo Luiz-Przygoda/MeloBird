@@ -29,6 +29,11 @@ def streamlit_config():
             text-align: center;
             font-size: 2.2rem;
         }
+        .gradient-text {
+            background: linear-gradient(90deg, #22d3ee, #a855f7, #f97316);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
         .upload-box {
             border: 2px dashed #94a3b8;
             padding: 25px;
@@ -57,7 +62,7 @@ def streamlit_config():
     """, unsafe_allow_html=True)
 
     st.markdown(
-        '<h1>🐦 MeloBird 🐦‍⬛<br>Classificação de Sons de Pássaros com Machine Learning</h1>',
+        '<h1>🐦 MeloBird 🐦‍⬛<br><span class="gradient-text">Classificação de Sons de Pássaros</span> com Machine Learning</h1>',
         unsafe_allow_html=True
     )
     add_vertical_space(2)
