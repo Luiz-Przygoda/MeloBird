@@ -1,5 +1,5 @@
 # MELOBIRD
-Um algoritmo para identificação de aves fundamentado em Python
+Um algoritmo para identificação de aves fundamentado em Python  
 ![Logo do projeto](https://github.com/Luiz-Przygoda/MeloBird/blob/main/Media/Melobird%20-%20logo%202.jpg)
 
 ## Introdução
